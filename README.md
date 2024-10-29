@@ -60,13 +60,16 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"width="30" height="30"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://www.mongodb.com"><img alt="MongoDB" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"width="30" height="30"></a>
+   &emsp;
+    <a href="https://mariadb.org"><img alt="MariaDB" src="https://i0.wp.com/goodtech.info/wp-content/uploads/2016/07/MariaDB-Logo-reverse-wht-text-square-web-072315-4c4.png?w=200&ssl=1"width="30" height="30"></a>
+    &emsp;
+    <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"width="30" height="30"></a>
+    &emsp;
+    <a href="https://aws.amazon.com"><img alt="AWS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"width="30" height="30"></a>
+      &emsp;
+    <a href="https://aws.amazon.com"><img alt="Microsoft Azure" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg"width="30" height="30"></a>
+  
  </p>
   
 
