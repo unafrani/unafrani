@@ -6,10 +6,10 @@
 <hr/>
 <h4 align="center">I am a technology professional with experience in full stack development, project management, and Big Data. I enjoy coding, designing, and innovating to create impactful solutions. I am an enthusiastic and open-minded person who loves to take on new challenges and learn new skills. I thrive on collaboration, exchanging ideas, and driving positive change through technology.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=unafrani&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="unafrani"  /></p>
 
 
 ## 🛠️ My Skills
