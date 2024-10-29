@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Project+Manager;Big+Data+Specialist;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a technology professional with experience in full stack development, project management, and Big Data. I enjoy coding, designing, and innovating to create impactful solutions. I am an enthusiastic and open-minded person who loves to take on new challenges and learn new skills. I thrive on collaboration, exchanging ideas, and driving positive change through technology.</h4>
+<h4 align="center">I am a technology professional with experience in project management,full stack development and Big Data. I enjoy coding, designing, and innovating to create impactful solutions. I am an enthusiastic and open-minded person who loves to take on new challenges and learn new skills. I thrive on collaboration, exchanging ideas, and driving positive change through technology.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unafrani&label=Profile%20views&color=0e75b6&style=plastic" alt="unafrani" /> </p>
 
