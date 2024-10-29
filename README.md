@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unafrani&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="unafrani"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=unafrani&theme=algolia" alt="unafrani"  /></p>
 
 
 ## 🛠️ My Skills
