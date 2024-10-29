@@ -61,6 +61,10 @@
   <a href="https://nodejs.org" target="_blank"> 
    <img alt="Node.js" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"width="30" height="30">
   </a>   
+ &emsp; 
+  <a href="https://laravel.com" target="_blank"> 
+   <img alt="Laravel" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg"width="30" height="30">
+  </a> 
 </p>
 
 ### 👉 Databases & Cloud Computing
@@ -116,7 +120,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Frani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=unafrani&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unafrani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="unafrani" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unafrani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="unafrani" height="145px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
