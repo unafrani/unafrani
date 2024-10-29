@@ -55,7 +55,15 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉Backend Development
+<p align="left"> 
+ &emsp; 
+  <a href="https://nodejs.org" target="_blank"> 
+   <img alt="Node.js" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"width="30" height="30">
+  </a>   
+</p>
+
+### 👉 Databases & Cloud Computing
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"width="30" height="30"></a>
@@ -69,6 +77,8 @@
     <a href="https://aws.amazon.com"><img alt="AWS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"width="30" height="30"></a>
       &emsp;
     <a href="https://aws.amazon.com"><img alt="Microsoft Azure" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg"width="30" height="30"></a>
+    &emsp;
+    <a href="https://www.cloudflare.com"><img alt="Cloudflare" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg"width="30" height="30"></a>
   
  </p>
   
@@ -77,24 +87,21 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Jira" src="hhttps://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg"width="30" height="30"></a>
   &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"width="30" height="30"></a>
   &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"width="30" height="30"></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"width="30" height="30"></a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Jupyter" src="https://camo.githubusercontent.com/6711d213c7c342a5e3da81ce55db7a6301810e24e4e1e5ae8c0db5d7ead5ddd1/68747470733a2f2f6769746875622e636f6d2f656676696f646f2f6964617468612d646174612d736369656e63652d636f757273652f7261772f6d61737465722f6e6f7465626f6f6b732f666967757265732f6a7570797465722d6c6f676f2e706e67"width="30" height="30"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
+    <a href="#"><img alt="Figma" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"width="30" height="30"></a>
+   &emsp;
+    <a href="#"><img alt="Discord" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"width="30" height="30"></a>
+   &emsp;
+    <a href="#"><img alt="Slack" src="https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/2019-01_BrandRefresh_slack-brand-refresh_header-1.png?d=500x500&f=inside"width="30" height="30"></a
 </p>
 
 <br/>
@@ -128,9 +135,10 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:gonzalezmarin.fran@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/unafrani"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mfranciscagonzalez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:gonzalezmarin.fran@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"width="30" height="30"alt="Gmail"/></a>
+		<a href="https://www.linkedin.com/in/mfranciscagonzalez/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg""width="30" height="30" alt="LinkedIn"/></a>
+	<a href="https://github.com/unafrani"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg""width="30" height="30"alt="GitHub"/></a>
+
 	
 </p>
 
