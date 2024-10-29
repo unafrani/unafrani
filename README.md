@@ -27,7 +27,11 @@
   </a>
   &emsp;
   <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+    <img alt="PHP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"width="30" height="30">
+  </a>
+   &emsp;
+  <a href="https://www.php.net/">
+    <img alt="R" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg"width="30" height="30">
   </a>
 </p>
 
