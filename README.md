@@ -24,12 +24,13 @@ Pero siempre me importa más el *por qué* que el *cómo*.
 
 ### 🧪 Proyectos con propósito
 
-- **¿Quién se queda afuera?**  
+- **El costo de tener cuerpo**  
+  Visualización crítica del gasto menstrual y su impacto según ingresos.
+
+  
+- **(En desarrollo)** ¿Quién se queda afuera?**  
   Análisis sobre brechas educativas y digitales en Chile.  
   *Power BI + datos abiertos MINEDUC y SUBTEL*
-
-- **(En desarrollo)** El costo de tener cuerpo  
-  Visualización crítica del gasto menstrual y su impacto según ingresos.
 
 - **(En mente)** Tiempos congelados  
   Distribución del trabajo no remunerado con enfoque de género (datos INE).
