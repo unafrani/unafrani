@@ -13,7 +13,7 @@
 
 ### 💡 Sobre mí
 
-Soy Frani (aka @unafrani), una persona curiosa y crítica que encuentra belleza en lo que parece caótico: hojas de cálculo, dashboards, código suelto o estructuras sociales.
+Soy Frani ( @unafrani), una persona curiosa y crítica que encuentra belleza en lo que parece caótico: hojas de cálculo, dashboards, código suelto o estructuras sociales.
 
 Me muevo entre el análisis de datos, la escritura reflexiva y el diseño estratégico de ideas. He trabajado en proyectos reales (y otros que inventé para entender mejor el mundo), y estoy en constante aprendizaje.
 
