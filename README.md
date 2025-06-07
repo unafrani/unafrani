@@ -1,51 +1,69 @@
-<h1 align="center">Hola, soy Frani 🧠✨</h1>
+<h1 align="center">Hola, soy Frani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <i>Analizo, escribo, conecto. A veces con datos, a veces con preguntas.<br>
-  Busco patrones en lo cotidiano y significado en lo técnico.</i>
+  <i>Analizo el mundo con datos, preguntas y un poco de estética.</i><br>
+  <i>No soy influencer, pero si algo te mueve, capaz influí sin querer.</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&lines=Data+Analysis+%7C+Digital+Thinking+%7C+Arte+con+Excelencia+%7C+Nunca+termino+de+aprender" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&height=50&lines=Análisis+de+datos+con+alma.;Narrativas+que+nacen+en+Excel.;Pensamiento+crítico+visual.;Siempre+aprendiendo+algo+nuevo.">
 </p>
 
 ---
 
-### 💡 Sobre mí
+### 📌 Sobre mí
 
-Soy Frani ( @unafrani), una persona curiosa y crítica que encuentra belleza en lo que parece caótico: hojas de cálculo, dashboards, código suelto o estructuras sociales.
+Soy Frani (@unafrani), una analista de datos que viene de muchas partes.  
+Aprendí lo técnico en cursos, lo creativo en errores y lo humano observando.  
+Trabajo con datos, visualizo patrones, automatizo procesos...  
+Pero siempre me importa más el *por qué* que el *cómo*.
 
-Me muevo entre el análisis de datos, la escritura reflexiva y el diseño estratégico de ideas. He trabajado en proyectos reales (y otros que inventé para entender mejor el mundo), y estoy en constante aprendizaje.
-
-Busco usar la tecnología con sentido, sin olvidar lo humano.
+> 💭 Creo que los datos no son fríos: solo hay que aprender a leerlos con ojos humanos.
 
 ---
 
-### 📌 Proyectos con propósito
+### 🧪 Proyectos con propósito
 
 - **¿Quién se queda afuera?**  
-  *Análisis exploratorio sobre brechas digitales y educativas en Chile usando datos abiertos del MINEDUC y SUBTEL.*  
-  [→ ver dashboard o notebook próximamente]
+  Análisis sobre brechas educativas y digitales en Chile.  
+  *Power BI + datos abiertos MINEDUC y SUBTEL*
 
-- **(En desarrollo)**: El costo de tener cuerpo  
-  *Visualización crítica del gasto menstrual por quintil de ingreso.*
+- **(En desarrollo)** El costo de tener cuerpo  
+  Visualización crítica del gasto menstrual y su impacto según ingresos.
+
+- **(En mente)** Tiempos congelados  
+  Distribución del trabajo no remunerado con enfoque de género (datos INE).
 
 ---
 
-### 🛠️ Habilidades
+### 🛠️ Habilidades técnicas
 
-*(Técnicas, pero no vacías)*  
-- Python / R / SQL  
-- Power BI / Excel avanzado  
-- Diseño frontend (HTML, CSS, React)  
-- Investigación, UX y narrativas de datos  
-- Automatización simple de procesos  
-- Contenido digital con estrategia
+#### 👉 Lenguajes
+<p align="left"> 
+  &emsp;<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" title="Python"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" width="30" title="R"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQL-Dark.svg" width="30" title="SQL"/>
+</p>
+
+#### 👉 Visualización + análisis
+<p align="left">
+  &emsp;<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Excel-Dark.svg" width="30" title="Excel" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PowerBI-Dark.svg" width="30" title="Power BI" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jupyter-Dark.svg" width="30" title="Jupyter Notebook" />
+</p>
+
+#### 👉 Herramientas complementarias
+<p align="left">
+  &emsp;<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" title="Git" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30" title="GitHub" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30" title="VS Code" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="30" title="Figma" />
+</p>
 
 ---
 
 <details>
-  <summary><b>📊 Stats (porque también hay que mostrar lo técnico)</b></summary>
+  <summary><b>📊 Stats (sí, también me gusta trackearme)</b></summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=unafrani&show_icons=true&theme=algolia" height="192px"/>
@@ -55,17 +73,13 @@ Busco usar la tecnología con sentido, sin olvidar lo humano.
 
 ---
 
-### 🤝 Conectemos
+### 🤝 ¿Conectamos?
 
 <p align="center">
-	<a href="mailto:gonzalezmarin.fran@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="30" /></a>
-	<a href="https://www.linkedin.com/in/mfranciscagonzalez/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="30" /></a>
+  <a href="mailto:gonzalezmarin.fran@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mfranciscagonzalez/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="30" /></a>
+  <a href="https://github.com/unafrani"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30" /></a>
 </p>
 
----
-
-<p align="center"><i>Gracias por mirar más allá de los commits.</i></p>
-
-
-
+<p align="center"><i>Gracias por leer. Los datos también pueden decir cosas suaves.</i></p>
 
