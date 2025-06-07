@@ -13,12 +13,9 @@
 
 ### 📌 Sobre mí
 
-Soy Frani (@unafrani), una analista de datos que viene de muchas partes.  
-Aprendí lo técnico en cursos, lo creativo en errores y lo humano observando.  
-Trabajo con datos, visualizo patrones, automatizo procesos...  
-Pero siempre me importa más el *por qué* que el *cómo*.
-
-> 💭 Creo que los datos no son fríos: solo hay que aprender a leerlos con ojos humanos.
+<p align="center">
+Soy Frani (@unafrani), una analista de datos que viene de muchas partes. Aprendí lo técnico en cursos, lo creativo en errores y lo humano observando. Trabajo con datos, visualizo patrones, automatizo procesos... pero siempre me importa más el <i>por qué</i> que el <i>cómo</i>. <br><br>
+💭 Creo que los datos no son fríos: solo hay que aprender a leerlos con ojos humanos.
 
 ---
 
