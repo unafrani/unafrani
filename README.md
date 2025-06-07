@@ -66,12 +66,15 @@ Pero siempre me importa más el *por qué* que el *cómo*.
   <summary><b>📊 Stats (sí, también me gusta trackearme)</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=unafrani&show_icons=true&theme=algolia&hide=prs,issues,contribs" height="192px"/>
+    <!-- Eliminado el widget roto de GitHub Stats -->
+    <!-- Lenguajes más usados -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unafrani&layout=compact&theme=algolia&hide_title=true" height="145px"/>
     <br/><br/>
+    <!-- Racha de actividad (funcional) -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=unafrani&theme=algolia" alt="Streak Stats"/>
   </p>
 </details>
+
 
 ---
 
