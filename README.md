@@ -24,12 +24,12 @@ Soy Frani (@unafrani), una analista de datos que viene de muchas partes. Aprend�
 - **El costo de tener cuerpo**  
   Visualización crítica del gasto menstrual y su impacto según ingresos.
 
-- **¿Quién se queda afuera?**  
+- **Tiempos Congelados** 
+  Distribución del trabajo no remunerado con enfoque de género (datos INE)
+
+   **Proximamente**  ¿Quién se queda afuera?
   Análisis sobre brechas educativas y digitales en Chile.  
   *Power BI + datos abiertos MINEDUC y SUBTEL*
-
-- **(En mente)** Tiempos congelados  
-  Distribución del trabajo no remunerado con enfoque de género (datos INE)
 
 ---
 
